@@ -1,4 +1,7 @@
-# 🎬 AI Movie Recommender System
+
+
+# 🎬 AI Movie Recommender System<img width="828" height="687" alt="Screenshot 2025-08-22 at 8 06 44 PM" src="https://github.com/user-attachments/assets/bb31ccdb-a301-448e-b137-86528eab73e5" />
+
 
 This AI-powered movie recommender system is built using Python, Streamlit, and scikit-learn. It leverages a TF-IDF vectorizer and Nearest Neighbors algorithm to recommend similar movies based on plot summaries. The system uses a cleaned dataset of over 100000 Hollywood movies from 1980 to 2024, containing details like title, genre, language, runtime, and IMDb rating. Users can simply input a movie title and instantly receive personalized recommendations based on content similarity.
 
